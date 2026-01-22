@@ -1,0 +1,13 @@
+{
+  "name": "meri-website",
+  "version": "1.0.0",
+  "description": "A static website",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static website' && exit 0"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "author": "Hammad Mustaq",
+  "license": "MIT"
+}
